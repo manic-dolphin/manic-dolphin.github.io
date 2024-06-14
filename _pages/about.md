@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![](../images/cover_pic.jpeg "Cover Picture")
 
 What's up, Guys!
 
