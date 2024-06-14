@@ -21,7 +21,7 @@ repository               : "manic-dolphin/manic-dolphin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cover.png"
   name             : "Yuliang Yan"
   pronouns         : # example: "she/her"  
   bio              : "Math change the world."
